@@ -78,7 +78,7 @@ Verify the installation by running:
 gtkwave
 ```
 <p align="center">
-  <img src="https://github.com/TheVoltageVikingRam/RTL2GDS_Alchemy/blob/main/Week0/assets/yosys_installed.png" 
+  <img src="(https://github.com/wesleejacop/weslee_RISC-V-Reference-SoC-Tapeout-Program-VSD/blob/main/week%200/Screenshot%202025-09-20%20205203.png)" 
        alt="Yosys Installed" width="600"/>
 </p>
 
