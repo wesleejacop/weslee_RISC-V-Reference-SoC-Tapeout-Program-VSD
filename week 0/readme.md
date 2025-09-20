@@ -52,7 +52,9 @@ yosys
 ```bash
 $ sudo apt-get install iverilog
 ```
+
 Verify the installation by running:
+
 ```bash
 gtkwave
 ```
@@ -61,7 +63,6 @@ gtkwave
        alt="Yosys Installed" width="600"/>
 </p>
 
-<div align="center">
 
 
 ### Installing GTKWave
@@ -73,12 +74,14 @@ Installation commands:
 $ sudo apt update
 $ sudo apt install gtkwave
 ```
+
 Verify the installation by running:
 ```bash
 gtkwave
 ```
+
 <p align="center">
-  <img src="(https://github.com/wesleejacop/weslee_RISC-V-Reference-SoC-Tapeout-Program-VSD/blob/main/week%200/Screenshot%202025-09-20%20205203.png)" 
+  <img src="https://github.com/wesleejacop/weslee_RISC-V-Reference-SoC-Tapeout-Program-VSD/blob/b9bd525dc2760eb73e85ce488612c69129df6d39/week%200/Screenshot%202025-09-20%20205203.png" 
        alt="Yosys Installed" width="600"/>
 </p>
 
