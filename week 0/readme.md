@@ -52,11 +52,9 @@ yosys
 ```bash
 $ sudo apt-get install iverilog
 ```
-
 Verify the installation by running:
-
 ```bash
-gtkwave
+iverilog
 ```
 <p align="center">
   <img src="https://github.com/TheVoltageVikingRam/RTL2GDS_Alchemy/blob/main/Week0/assets/yosys_installed.png" 
@@ -73,8 +71,8 @@ Installation commands:
 ```bash
 $ sudo apt update
 $ sudo apt install gtkwave
-```
 
+```
 Verify the installation by running:
 ```bash
 gtkwave
