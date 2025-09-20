@@ -1,4 +1,4 @@
-# Week 0 - Essential EDA Tools Setup
+ # Week 0 - Essential EDA Tools Setup  🛠️🛠️
 
 Welcome to the initial phase of the project where we configure and install the core open-source EDA tools required for RTL-to-GDSII design flow.
 
@@ -18,7 +18,7 @@ This documentation covers the installation and basic verification of three vital
 
 ## Installation Guide
 
-### Setting Up Yosys
+### Setting Up Yosys ✅
 
 Yosys is a powerful open-source synthesis tool that converts RTL Verilog code into gate-level representation. It plays a crucial role in optimizing designs before physical implementation.
 
@@ -42,13 +42,13 @@ Verify the installation by running:
 yosys
 ```
 <p align="center">
-  <img src="https://github.com/TheVoltageVikingRam/RTL2GDS_Alchemy/blob/main/Week0/assets/yosys_installed.png" 
+  <img src="https://github.com/wesleejacop/weslee_RISC-V-Reference-SoC-Tapeout-Program-VSD/blob/c969b615081da6f91484c131e60b40889df08e27/week%200/Screenshot%20(118).png " 
        alt="Yosys Installed" width="600"/>
 </p>
 
-<div align="center">
 
-## **Iverilog Installation**
+
+## **Iverilog Installation** ✅
 ```bash
 $ sudo apt-get install iverilog
 ```
@@ -57,13 +57,13 @@ Verify the installation by running:
 $ iverilog
 ```
 <p align="center">
-  <img src="https://github.com/TheVoltageVikingRam/RTL2GDS_Alchemy/blob/main/Week0/assets/yosys_installed.png" 
+  <img src="https://github.com/wesleejacop/weslee_RISC-V-Reference-SoC-Tapeout-Program-VSD/blob/c969b615081da6f91484c131e60b40889df08e27/week%200/Screenshot%202025-09-20%20204857.png " 
        alt="Yosys Installed" width="600"/>
 </p>
 
 
 
-### Installing GTKWave
+### Installing GTKWave ✅
 
 GTKWave is a waveform viewer that helps debug and visualize simulation results from Verilog or VHDL.
 
@@ -92,11 +92,4 @@ $ gtkwave
 | Yosys   | RTL synthesis & optimization  | ✅ Installed        |
 | GTKWave | Waveform viewing & analysis   | ✅ Installed        |
 | Iverilog| Verilog compilation & simulation | ✅ Installed     |
-
-
-
-
-
-
-```
 
